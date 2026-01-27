@@ -14,7 +14,7 @@ questions naturally arise.
 - Object-oriented design & architecture
 - Tooling and system-level thinking
 - Games, rules, and emergent systems
-- Making complex workflows feel simple and intentional
+- Making complex workflows feel simple and with meaning
 
 ---
 
