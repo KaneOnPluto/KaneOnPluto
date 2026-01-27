@@ -1,55 +1,93 @@
-# Hi, I'm Kane
+# Hi, I’m Kane
 
-I’m a builder interested in systems, tools, and game-like experiences.
-I enjoy working on projects that reduce friction, make complex things
-more legible, or explore ideas through code.
+I like building things to understand them.
 
-I tend to learn by building first, then going deeper into theory as
-questions naturally arise.
+Most of my projects start because something feels unclear, inefficient,
+or unnecessarily opaque — especially in systems, tools, or workflows.
+I usually learn by making something concrete first, then digging into
+the theory once I know what questions actually matter.
+
+This GitHub is not a polished showcase. It’s closer to a lab notebook.
 
 ---
 
 ## What I’m interested in
 
-- Object-oriented design & architecture
-- Tooling and system-level thinking
-- Games, rules, and emergent systems
-- Making complex workflows feel simple and with meaning
+- Systems and tooling (especially OS-level or close to it)
+- Designing rules, constraints, and behaviors
+- Making invisible processes observable and explainable
+- Games and game-like systems as a way to explore complexity
+- Reducing friction instead of adding features
 
 ---
 
-## What I’m working on
+## How I build
 
-- Personal tools and experiments (mostly Python / system-focused)
-- Small, focused projects that prioritize clarity over scale
-- Exploring ideas before committing to polish or production
-
-(Some projects are intentionally archived as part of learning and since I didn't really find them appealing as I grew)
-
----
-
-## How I work
-
-- Project-first, theory-driven
-- Prefer depth over breadth
-- Value understanding and ownership over speed
-- Use modern tools (including AI) as assistance, not authorship
+- Start with a real problem, often from myself or people I know
+- Build a minimal but correct core before worrying about UI or polish
+- Prefer simple, explainable logic over clever abstractions
+- Iterate by observing behavior, not guessing requirements
+- Use tools (including AI) to accelerate thinking, not replace it
 
 ---
 
-## Tech I’m comfortable with
+## What you’ll find here
 
-- Python
-- Basic web technologies (HTML / CSS / JS)
-- C/C++ (basic level in C++)
+- Small to medium personal tools
+- Experiments focused on understanding, not scale
+- Projects that evolve as my interests and standards change
+- Some abandoned or archived repos — intentionally left as learning artifacts
+
+Not everything here is meant to be “finished”.
+
+---
+
+## Tools I’m comfortable with
+
+- Python (primary)
+- C / C++ (learning, systems-oriented use)
+- Basic web tech (HTML / CSS / JS)
 - Git & GitHub
-- Learning lower-level and architectural concepts over time
+- Gradually going lower-level as needed
+  
+I’m not rigid about languages or stacks.  
+If a problem calls for something else (SQL, Java, C#, etc.), I’m comfortable
+learning it as needed and going deep enough to understand how it actually works.
+
+I care more about choosing the right tool for the problem than sticking to a
+specific ecosystem.
 
 ---
 
-## Notes
+## A note on intent
 
-This GitHub is a workbench, not a portfolio of finished products.
-My repositories reflect exploration, iteration, and growth rather than
-polished outcomes.
+I’m more interested in *why something behaves the way it does*
+than in shipping features as fast as possible.
 
+If a project exists here, it’s because it helped me understand something
+better than I did before.
+
+---
+
+## Things I want to build next
+
+These are ideas I’m personally interested in exploring.
+They’re not promises or roadmaps — just problems I want to spend time with.
+
+- A Wayland config → Quick Shell app  
+  I want to experiment with replacing Wayland bar configs with a
+  more programmable setup using Qt/QML. Mostly about stability, control,
+  and understanding how these systems behave under real use.
+
+- Phase52  
+  A turn-based, single-player card game built in Java (Servlets, JSP, JDBC).
+  The focus is on the game engine and rules first, not visuals. I want to
+  treat it as a systems problem rather than a UI project.
+
+- Environmetal Divergence Meter (IoT project)  
+  An environmental data monitoring project using sensors and embedded
+  hardware. This is mainly about learning how raw sensor data flows through
+  hardware, software, and interpretation, not about building a polished product.
+
+I’m using these projects to explore different layers of systems:
+OS-level tooling, backend logic, and hardware–software interaction.
