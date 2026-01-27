@@ -41,6 +41,7 @@ questions naturally arise.
 
 - Python
 - Basic web technologies (HTML / CSS / JS)
+- C/C++ (basic level in C++)
 - Git & GitHub
 - Learning lower-level and architectural concepts over time
 
