@@ -15,19 +15,9 @@ This GitHub is not a polished showcase. It’s closer to a lab notebook.
 
 - Systems and tooling (especially OS-level or close to it)
 - Designing rules, constraints, and behaviors
-- Making invisible processes observable and explainable
+- Ai Integration and Robotics
 - Games and game-like systems as a way to explore complexity
 - Reducing friction instead of adding features
-
----
-
-## How I build
-
-- Start with a real problem, often from myself or people I know
-- Build a minimal but correct core before worrying about UI or polish
-- Prefer simple, explainable logic over clever abstractions
-- Iterate by observing behavior, not guessing requirements
-- Use tools (including AI) to accelerate thinking, not replace it
 
 ---
 
