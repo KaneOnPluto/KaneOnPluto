@@ -75,6 +75,7 @@ They’re not promises or roadmaps — just problems I want to spend time with.
   hardware, software, and interpretation, not about building a polished product.
 
 - AI Companion with feedback pipeline (Soon)
+  
   Self aware ai where it has self feedback to correct previous mistakes
   during conversations using local memory storage, using Qwen 2.5B AI model
   and machine learning, etc.
