@@ -11,24 +11,23 @@ This GitHub is not a polished showcase. It’s closer to a lab notebook.
 
 ---
 
-## What I’m interested in
+## What I’m interested in/Learning now
 
-- Systems and tooling (especially OS-level or close to it)
 - Designing rules, constraints, and behaviors
-- Ai Integration and Robotics
 - Games and game-like systems as a way to explore complexity
 - Reducing friction instead of adding features
+- AI Integration and Robotics (Learn)
+- OS fundamentals and Data Structures (Learn)
 
 ---
 
 ## What you’ll find here
 
 - Small to medium personal tools
+- Eventually serious scalable projects
 - Experiments focused on understanding, not scale
 - Projects that evolve as my interests and standards change
 - Some abandoned or archived repos — intentionally left as learning artifacts
-
-Not everything here is meant to be “finished”.
 
 ---
 
@@ -37,7 +36,6 @@ Not everything here is meant to be “finished”.
 - Python (primary)
 - C / C++ (learning, systems-oriented use)
 - Basic web tech (HTML / CSS / JS)
-- Git & GitHub
 - Gradually going lower-level as needed
   
 I’m not rigid about languages or stacks.  
@@ -81,4 +79,4 @@ They’re not promises or roadmaps — just problems I want to spend time with.
   and machine learning, etc.
 
 I’m using these projects to explore different layers of systems:
-OS-level tooling, backend logic, and hardware–software interaction.
+AI, CUDA, Machine Learning, C++, Python, Object-oriented programming concepts, etc.
