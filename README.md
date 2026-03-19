@@ -64,11 +64,6 @@ better than I did before.
 These are ideas I’m personally interested in exploring.
 They’re not promises or roadmaps — just problems I want to spend time with.
 
-- A Wayland config → Quick Shell app  
-  I want to experiment with replacing Wayland bar configs with a
-  more programmable setup using Qt/QML. Mostly about stability, control,
-  and understanding how these systems behave under real use.
-
 - Phase52  
   A turn-based, single-player card game built in Java (Servlets, JSP, JDBC).
   The focus is on the game engine and rules first, not visuals. I want to
@@ -78,6 +73,11 @@ They’re not promises or roadmaps — just problems I want to spend time with.
   An environmental data monitoring project using sensors and embedded
   hardware. This is mainly about learning how raw sensor data flows through
   hardware, software, and interpretation, not about building a polished product.
+
+- AI Companion with feedback pipeline (Soon)
+  Self aware ai where it has self feedback to correct previous mistakes
+  during conversations using local memory storage, using Qwen 2.5B AI model
+  and machine learning, etc.
 
 I’m using these projects to explore different layers of systems:
 OS-level tooling, backend logic, and hardware–software interaction.
