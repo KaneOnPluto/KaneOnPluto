@@ -9,6 +9,8 @@ the theory once I know what questions actually matter.
 
 This GitHub is not a polished showcase. It’s closer to a lab notebook.
 
+Slowly developing myself as an independent developer, rather than vibe coding.
+
 ---
 
 ## What I’m interested in/Learning now
