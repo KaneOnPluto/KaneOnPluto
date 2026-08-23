@@ -33,10 +33,10 @@ Slowly developing myself as an independent developer, rather than vibe coding.
 
 ---
 
-## Tools I’m comfortable with
+## Tools I’m comfortable with, but still learning
 
 - Python (primary)
-- C / C++ (learning, systems-oriented use)
+- C / C++ (Still learning, systems-oriented use)
 - Basic web tech (HTML / CSS / JS)
 - Gradually going lower-level as needed
   
@@ -64,21 +64,23 @@ better than I did before.
 These are ideas I’m personally interested in exploring.
 They’re not promises or roadmaps — just problems I want to spend time with.
 
-- Phase52  
-  A turn-based, single-player card game built in Java (Servlets, JSP, JDBC).
-  The focus is on the game engine and rules first, not visuals. I want to
-  treat it as a systems problem rather than a UI project.
+- Re-Sync 
 
-- Environmetal Divergence Meter (IoT project)  
+  A live simulation of a codebase that users have to maintain, scenarios where you fix codes and
+  protect codebases. Inspired by leetcode. I plan to use electron for an app development, its just a
+  website under the hood. Using this as a university project, not for personal growth.
+
+- Environmetal Divergence Meter (IoT project) (Finished - yet to document on github) 
+
   An environmental data monitoring project using sensors and embedded
   hardware. This is mainly about learning how raw sensor data flows through
   hardware, software, and interpretation, not about building a polished product.
 
-- AI Companion with feedback pipeline (Soon)
-  
-  Self aware ai where it has self feedback to correct previous mistakes
-  during conversations using local memory storage, using Qwen 2.5B AI model
-  and machine learning, etc.
+- Project Axiom
+
+  A simulation of AI agents, that are put into a world where they have to rebuild civilization.
+  This is a project about AI emergence and including objects like AGI, Machine Learning, etc. Hopefully,
+  this project will be my research direction.
 
 I’m using these projects to explore different layers of systems:
 AI, CUDA, Machine Learning, C++, Python, Object-oriented programming concepts, etc.
