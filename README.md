@@ -80,4 +80,6 @@ They’re not promises or roadmaps — just problems I want to spend time with o
   this project will be my research direction.
 
 I’m using these projects to explore different layers of systems:
-AI, CUDA, Machine Learning, C++, Python, Object-oriented programming concepts, Mathematics etc.
+AI, IoT, OOP, Mathematics, Etc.
+
+For me being exposed to more systems and knowledge is the goal.
