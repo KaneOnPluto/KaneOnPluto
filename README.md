@@ -35,7 +35,6 @@ Slowly developing myself as an independent developer, rather than vibe coding.
 - Python (primary)
 - C / C++ (Still learning, systems-oriented use)
 - Basic web tech (HTML / CSS / JS)
-- Gradually going lower-level as needed
 
 ## Left to learn (Future goals)
 
