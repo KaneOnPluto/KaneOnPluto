@@ -2,10 +2,8 @@
 
 I like building things to understand them.
 
-Most of my projects start because something feels unclear, inefficient,
-or unnecessarily opaque — especially in systems, tools, or workflows.
-I usually learn by making something concrete first, then digging into
-the theory once I know what questions actually matter.
+Most of my projects start with an inspiration or any opaque idea, I understand real life problems
+and how my project can solve it. Based on real life data, work on projects that solve problems.
 
 This GitHub is not a polished showcase. It’s closer to a lab notebook.
 
@@ -17,9 +15,8 @@ Slowly developing myself as an independent developer, rather than vibe coding.
 
 - Designing rules, constraints, and behaviors
 - Games and game-like systems as a way to explore complexity
-- Reducing friction instead of adding features
-- AI Integration and Robotics (Learn)
-- OS fundamentals and Data Structures (Learn)
+- AI Integration and Robotics (Learning)
+- OS fundamentals and Data Structures (Learning)
 
 ---
 
@@ -27,7 +24,7 @@ Slowly developing myself as an independent developer, rather than vibe coding.
 
 - Small to medium personal tools
 - Eventually serious scalable projects
-- Experiments focused on understanding, not scale
+- Experiments based on random ideas
 - Projects that evolve as my interests and standards change
 - Some abandoned or archived repos — intentionally left as learning artifacts
 
@@ -39,8 +36,15 @@ Slowly developing myself as an independent developer, rather than vibe coding.
 - C / C++ (Still learning, systems-oriented use)
 - Basic web tech (HTML / CSS / JS)
 - Gradually going lower-level as needed
+
+## Left to learn (Future goals)
+
+- Mathematics (Linear algebra, Probability & Statistics)
+- Machine Learning and Deep learning
+- Bridge AI and Robotics
   
 I’m not rigid about languages or stacks.  
+
 If a problem calls for something else (SQL, Java, C#, etc.), I’m comfortable
 learning it as needed and going deep enough to understand how it actually works.
 
@@ -62,13 +66,7 @@ better than I did before.
 ## Things I want to build next
 
 These are ideas I’m personally interested in exploring.
-They’re not promises or roadmaps — just problems I want to spend time with.
-
-- Re-Sync 
-
-  A live simulation of a codebase that users have to maintain, scenarios where you fix codes and
-  protect codebases. Inspired by leetcode. I plan to use electron for an app development, its just a
-  website under the hood. Using this as a university project, not for personal growth.
+They’re not promises or roadmaps — just problems I want to spend time with or have already worked on.
 
 - Environmetal Divergence Meter (IoT project) (Finished - yet to document on github) 
 
@@ -83,4 +81,4 @@ They’re not promises or roadmaps — just problems I want to spend time with.
   this project will be my research direction.
 
 I’m using these projects to explore different layers of systems:
-AI, CUDA, Machine Learning, C++, Python, Object-oriented programming concepts, etc.
+AI, CUDA, Machine Learning, C++, Python, Object-oriented programming concepts, Mathematics etc.
